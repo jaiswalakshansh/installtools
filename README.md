@@ -17,4 +17,4 @@ pico ~/.bashrc
 export GOPATH=~/go
 export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin
 
-Now u are all set to install try tomnomnom one's its just epic man.
+Now u are all set to install try tomnomnom one's its just epic man..
