@@ -15,6 +15,6 @@ mkdir bin src pkg
 5)Set environment
 pico ~/.bashrc
 export GOPATH=~/go
-export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin
++* export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin
 
 Now u are all set to install try tomnomnom one's its just epic man..
