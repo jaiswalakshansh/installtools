@@ -1,5 +1,10 @@
 * # installtools
 * Here i will list all the steps in installing and setting different tools in linux based machines
+
+
+
+*
+*
 * 1)go[TOMNOMNOM httprobe was so cool i was in love with this one but this tool was made in go somehow i was not able to find any good tutorial idk why but atlast solved the small problem of environment setting )
 * STEPS
 * 1)GO TO https://golang.org/dl/ and install one for linux and save it in DOWNLOADS
