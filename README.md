@@ -14,7 +14,7 @@ Here i will list all the steps in installing and setting different tools in linu
 *    cd /go
 *    mkdir bin src pkg
 * 5)Set environment
-* pico ~/.bashrc
+* pico ~/.bashrc and write there below export lines and save
 * export GOPATH=~/go
 * export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin
 * Now u are all set to install try tomnomnom one's its just epic man..
